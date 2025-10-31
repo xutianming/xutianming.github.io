@@ -11,7 +11,7 @@ I am now a tech leader manager of AI Infra team at [rednote hilab](https://githu
 
 Careers
 ======
-2020-2023 Bytedance AML (Applied Machine Learning), worked on large scale training systems for recommendation models which can scale up to 100TB
-2016-2020 Aliyun PAI (Platform of AI), worked on Tensorflow and Torch optimization
+* 2020-2023 Bytedance AML (Applied Machine Learning), worked on large scale training systems for recommendation models which can scale up to 100TB
+* 2016-2020 Aliyun PAI (Platform of AI), worked on Tensorflow and Torch optimization
 
 
